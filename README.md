@@ -64,6 +64,9 @@ I’m also a natural collaborator equally comfortable working with senior stakeh
 - SQL (PostgreSQL, SQL Server, MySQL)
 - Python
 
+## Projects :books:
+
+
 ## Connect with Me
 - :link: [LinkedIn](https://www.linkedin.com/in/abiayoola/)
 - :envelope_with_arrow: [Email](Ollicks05@gmail.com)
