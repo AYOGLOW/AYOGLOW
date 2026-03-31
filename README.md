@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"># I am passionate about Data. </p>
+<p align="left"> I am passionate about Data. </p>
 
 ###
 
@@ -37,12 +37,6 @@
 </div>
 
 ## Skills
-
-###
-
-<h2 align="left">Skills</h2>
-
-###
 - Power BI
 - Databricks
 - Tableau
