@@ -4,11 +4,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left"># About</p>
+<p align="left"># I am passionate about Data. </p>
 
 ###
 
@@ -37,6 +37,12 @@
 </div>
 
 ## Skills
+
+###
+
+<h2 align="left">Skills</h2>
+
+###
 - Power BI
 - Databricks
 - Tableau
