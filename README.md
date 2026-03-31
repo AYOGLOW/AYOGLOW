@@ -65,7 +65,8 @@ I’m also a natural collaborator equally comfortable working with senior stakeh
 - Python
 
 ## Projects :books:
-- [Databricks Projects](https://github.com/AYOGLOW/Data-Engineering-Databricks)
+- [Databricks Projects](https://github.com/AYOGLOW/Data-Engineering-Databricks): Project completed in Databricks
+- [Cloud Computing](https://github.com/AYOGLOW/Techcrush-Cloud-computing)
 
 ## Connect with Me
 - :link: [LinkedIn](https://www.linkedin.com/in/abiayoola/)
