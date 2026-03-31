@@ -5,10 +5,16 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn%20&color=faedcd&logoColor=white&labelColor=0077B5&style=flat" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Gmail&color=faedcd&logoColor=white&labelColor=D14836&style=flat" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/abiayoola/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn%20&color=faedcd&logoColor=white&labelColor=0077B5&style=flat" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="Ollicks05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Contact&logo=gmail&label=Gmail&color=faedcd&logoColor=white&labelColor=D14836&style=flat" height="35" alt="gmail logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Chat&logo=slack&label=Slack&color=faedcd&logoColor=white&labelColor=4A154B&style=flat" height="35" alt="slack logo"  />
 </div>
+
+###
 
 ###
 
