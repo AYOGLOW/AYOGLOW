@@ -23,9 +23,12 @@
 ###
 
 <p align="left"> From my early career in IT consultancy and education to later supporting healthcare projects, one thing has remained constant: my passion for making sense of complex data and turning it into solutions that drive real impact.
+  
 I am a Prince2 & Scrum Master Certified Data Analyst (Google certified) with strong expertise in data management, governance, and analysis (both qualitative & quantitative). Over the years, I have built a track record of helping organizations transform raw data into actionable insights, ensuring clarity, compliance, and accuracy every step of the way.
 My toolkit includes SQL, Excel, Power BI, Tableau, R, and Python which I leverage to clean, analyze, and visualize data. Beyond tools, I thrive in identifying trends, spotting opportunities, and helping senior leaders make smarter, data-driven decisions.
+
 What sets me apart is my ability to combine technical expertise with business strategy. Whether it’s designing efficient data governance frameworks, streamlining reporting processes, or delivering high-level MI reports, I focus on solving problems, improving processes, and increasing operational efficiency.
+
 I’m also a natural collaborator equally comfortable working with senior stakeholders, cross-functional teams, or project squads ensuring that data not only tells a story but also fuels growth.
 📌 If you’re looking for a data-driven professional who can transform information into strategy, strengthen data governance, and manage projects that deliver results, let’s connect and make it happen. </p>
 
