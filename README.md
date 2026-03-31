@@ -1,8 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
 
-<p align="left">My name is Gloria, and I am a Data Analyst</p>
+<h1 align="left">Hi! My name is Gloria, and I am a Data Analyst</h1>
 
 ###
 
@@ -38,8 +36,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
 </div>
 
-###
+## Skills
+- Power BI
+- Databricks
+- Tableau
+- Azure
+- Excel
+- SQL (PostgreSQL, SQL Server, MySQL)
+- Python
 
-<p align="left"># Skills</p>
-
-###
+## Connect with Me
