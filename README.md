@@ -41,7 +41,7 @@ I’m also a natural collaborator equally comfortable working with senior stakeh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
 </div>
 
-## Skills
+## Skills :hammer_and_wrench:
 - Power BI
 - Databricks
 - Tableau
@@ -51,6 +51,6 @@ I’m also a natural collaborator equally comfortable working with senior stakeh
 - Python
 
 ## Connect with Me
-[LinkedIn](https://www.linkedin.com/in/abiayoola/)
-[Email](Ollicks05@gmail.com)
-[Website](https://ayoglow.github.io/myDAportfolio/)
+- :link: [LinkedIn](https://www.linkedin.com/in/abiayoola/)
+- :envelope_with_arrow: [Email](Ollicks05@gmail.com)
+- :globe_with_meridians: [Website](https://ayoglow.github.io/myDAportfolio/)
